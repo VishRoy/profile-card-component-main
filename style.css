@@ -83,3 +83,7 @@ ul {
   list-style-type: none;
   color: var(--dark-cyan);
 }
+
+ul.browser-default li {
+  list-style-type: initial;
+}
