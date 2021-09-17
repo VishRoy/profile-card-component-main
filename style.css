@@ -79,11 +79,11 @@ span {
   font-weight: 400;
 }
 
-ul {
+ul:not(.browser-default) {
   list-style-type: none;
   color: var(--dark-cyan);
 }
 
-ul.browser-default li {
-  list-style-type: initial;
+ul:not(.browser-default) li {
+  list-style-type: none;
 }
