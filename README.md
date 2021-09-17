@@ -17,8 +17,6 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS Grid
 - Mobile-first workflow
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learned how to use multiple background images.
